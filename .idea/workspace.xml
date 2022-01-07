@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f6e88b-f731-4a40-bfdd-ce2b2ac81d27" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/backend/Database.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/Runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/Tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/data/bitcoin_price.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/data/dogecoin_price.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/data/ethereum_price.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/generate_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/generate_home.py" afterDir="false" />
     </list>
