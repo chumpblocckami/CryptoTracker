@@ -1,0 +1,5 @@
+bitcoin,10
+dogecoin,10
+ethereum,10
+micropets,10
+metacraft,10
